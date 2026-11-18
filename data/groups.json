@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/shopify Storefront Builders",
+    "platform": "Reddit",
+    "category": "Shopify Stores",
+    "memberCount": "240,000+ members",
+    "description": "The premier community for Shopify store merchants, theme customization, checkout conversion optimization, and app stack architecture.",
+    "joinUrl": "https://www.reddit.com/r/shopify/",
+    "tags": [
+      "shopify",
+      "ecommerce",
+      "storefront",
+      "reddit"
+    ],
+    "id": "shopify-dropshipping-viral-hub-reddit-1",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "shopify-dropshipping-viral-hub-forum-20261022-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -644,24 +663,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/shopify Storefront Builders",
-    "platform": "Reddit",
-    "category": "Shopify Stores",
-    "memberCount": "240,000+ members",
-    "description": "The premier community for Shopify store merchants, theme customization, checkout conversion optimization, and app stack architecture.",
-    "joinUrl": "https://www.reddit.com/r/shopify/",
-    "tags": [
-      "shopify",
-      "ecommerce",
-      "storefront",
-      "reddit"
-    ],
-    "id": "shopify-dropshipping-viral-hub-reddit-1",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/dropship Product Testing Guild",
