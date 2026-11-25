@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/marketing Growth & Strategy",
+    "platform": "Reddit",
+    "category": "Marketing Strategy",
+    "memberCount": "850,000+ members",
+    "description": "Consumer psychology, value proposition positioning, offer design, and viral narrative crafting.",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "strategy",
+      "psychology",
+      "growth"
+    ],
+    "id": "shopify-dropshipping-viral-hub-reddit-8",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "title": "r/digitalmarketing Omnichannel Growth",
     "platform": "Reddit",
     "category": "Digital Marketing",
@@ -15,7 +34,7 @@
     "id": "shopify-dropshipping-viral-hub-reddit-7",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -777,24 +796,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/marketing Growth & Strategy",
-    "platform": "Reddit",
-    "category": "Marketing Strategy",
-    "memberCount": "850,000+ members",
-    "description": "Consumer psychology, value proposition positioning, offer design, and viral narrative crafting.",
-    "joinUrl": "https://www.reddit.com/r/marketing/",
-    "tags": [
-      "marketing",
-      "strategy",
-      "psychology",
-      "growth"
-    ],
-    "id": "shopify-dropshipping-viral-hub-reddit-8",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/socialmediamarketing Organic Reach",
